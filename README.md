@@ -3,6 +3,8 @@
 This repository is intended to simplify how to approach this problems and problems in general for
 beginners who are getting started with Javascript.
 
+AIM: For now the aim is 50 questions and solutions.
+
 Feel free to fork this repo and make pull requests to add your own trained codewars KATA with
 a simple explanation on how the problem is solved.
 Also, make pull requests if you think an explanation can be better.
